@@ -1,7 +1,7 @@
 import style from './Button.module.scss';
 
 const Button = props => {
-    return(
+    return (
         <button className={style.button}> {props.children} </button>
     );
 };

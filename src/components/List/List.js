@@ -13,7 +13,7 @@ const List = () => {
                 <Column title="Games" icon="film" />
             </section>
         </div>
-        
+
     );
 };
 
